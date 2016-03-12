@@ -1,10 +1,15 @@
-# CCT RESTful API
+# CCT API
 
 ```
 charlottecomedytheater.com/
 
 /shows
+show list and descriptions
+
 /classes
-/tickets
+upcoming classes, registration, info
+
+/reservations | /tickets
+reserve tickets and seats
 
 ```
