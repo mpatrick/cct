@@ -4,12 +4,12 @@
 charlottecomedytheater.com/
 
 /shows
-show list and descriptions
+show list and descriptions by show
 
-/classes
-upcoming classes, registration, info
+/workshops
+upcoming classes, workshops (e.g. 1 day class), registration
 
-/reservations | /tickets
+/reservations | /order
 reserve tickets and seats
 
 ```
